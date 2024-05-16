@@ -1,2 +1,2 @@
 # HRM-Software
-This is a HRM software backend
+This project is an HRM software backend, written in java spring-boot.
